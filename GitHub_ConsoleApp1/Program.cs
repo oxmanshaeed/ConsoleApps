@@ -15,7 +15,7 @@ namespace GitHub_ConsoleApp1
 
 
             Console.WriteLine("Test2");
-        
+            Console.ReadLine();
         }
 
 
